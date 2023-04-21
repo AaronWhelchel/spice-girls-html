@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(13, 197, 230);
+}
+
+footer p {
+    color: aquamarine;
+}
+
+.perferred {
+    text-transform: capitalize;
+
+}
+
